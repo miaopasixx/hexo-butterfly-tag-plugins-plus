@@ -681,7 +681,7 @@ details.folding-tag summary:hover:after {
   right: 16px;
 }
 details.folding-tag >summary {
-  background: #f6f6f6;
+  background: #f6f6f600;
 }
 details.folding-tag[purple] {
   border-color: #fae7fd;
