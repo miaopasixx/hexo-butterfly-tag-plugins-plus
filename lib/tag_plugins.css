@@ -646,7 +646,7 @@ details.folding-tag {
   -moz-transition: all 0.28s ease;
   -webkit-transition: all 0.28s ease;
   -o-transition: all 0.28s ease;
-  border: 1px solid #f6f6f6;
+  border: 1px solid #0084FF;
 }
 details.folding-tag summary {
   cursor: pointer;
