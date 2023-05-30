@@ -684,46 +684,46 @@ details.folding-tag >summary {
   background: #f6f6f600;
 }
 details.folding-tag[purple] {
-  border-color: #fae7fd;
+  border-color: #fae7fd00;
 }
 details.folding-tag[purple] >summary {
-  background: #fae7fd;
+  background: #fae7fd00;
 }
 details.folding-tag[blue] {
-  border-color: #e8f4fd;
+  border-color: #e8f4fd00;
 }
 details.folding-tag[blue] >summary {
-  background: #e8f4fd;
+  background: #e8f4fd00;
 }
 details.folding-tag[cyan] {
-  border-color: #e8fafe;
+  border-color: #e8fafe00;
 }
 details.folding-tag[cyan] >summary {
-  background: #e8fafe;
+  background: #e8fafe00;
 }
 details.folding-tag[green] {
-  border-color: #ebf9ed;
+  border-color: #ebf9ed00;
 }
 details.folding-tag[green] >summary {
-  background: #ebf9ed;
+  background: #ebf9ed00;
 }
 details.folding-tag[yellow] {
-  border-color: #fff8e9;
+  border-color: #fff8e900;
 }
 details.folding-tag[yellow] >summary {
-  background: #fff8e9;
+  background: #fff8e900;
 }
 details.folding-tag[orange] {
-  border-color: #fdf1e7;
+  border-color: #fdf1e700;
 }
 details.folding-tag[orange] >summary {
-  background: #fdf1e7;
+  background: #fdf1e700;
 }
 details.folding-tag[red] {
-  border-color: #feefee;
+  border-color: #feefee00;
 }
 details.folding-tag[red] >summary {
-  background: #feefee;
+  background: #feefee00;
 }
 details.folding-tag[open] {
   border-color: rgba(68,68,68,0.2);
